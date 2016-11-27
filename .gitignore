@@ -1,3 +1,8 @@
+# ignore all raw-data files in
+del/
+
+.DS_STORE
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
